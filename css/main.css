@@ -517,7 +517,8 @@ input[type="submit"]:hover {
 /*Start media queries*/
 @media screen and (max-width: 768px) {
   body {
-    background: url("/images/sitebg2.jpg") no-repeat center fixed;
+    background: url("https://nelisam.github.io/portfolio-nelisa/images/sitebg2.jpg")
+      no-repeat center fixed;
     background-size: cover;
   }
 
